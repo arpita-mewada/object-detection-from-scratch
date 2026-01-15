@@ -69,6 +69,10 @@ No pretrained weights were used.
 - Demonstrates full deployment pipeline
 
 ---
+## Demo Video
+Inference demo showing model loading and object detection output:
+Demo video link:
+https://drive.google.com/file/d/1Wd32h4wkwcSttkN-cKtzJomvqXcfEe4A/view?usp=sharing
 
 ## Notes
 - This project focuses on pipeline correctness rather than accuracy
